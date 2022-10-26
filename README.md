@@ -1,5 +1,5 @@
 <h2>
-    Hello there :floppy_disk:
+    _Hello World_ :computer:
 </h2>
 <p>
     I'm Rafael, a junior developer from Brazil.
