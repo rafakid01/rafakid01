@@ -13,7 +13,8 @@ Skills
 :a: Angular<br>
 :blue_book: TypeScript<br>
 :elephant: PHP <br>
- </p><a href="https://github.com/rafakid01">
-    <img src="https://user-images.githubusercontent.com/8083855/66189632-3da42e00-e69b-11e9-8855-be5badacad67.png"
-        alt="cuphead icon" align="center" width="100px">
-</a>
+ </p>
+ 
+<!-- https://imgbox.com/gallery/edit/VYbaNYz9Ov/b5y4UXifkotNRkDA   -->
+
+<a href="https://github.com/rafakid01" target="_blank"><img src="https://thumbs2.imgbox.com/66/d9/Oj85Pvhe_t.png" width="150px" alt="my bighead icon"/></a>
