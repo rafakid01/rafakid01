@@ -4,6 +4,7 @@
 <p>
     I'm Rafael, a junior developer from Brazil.
 </p>
+<p> <strong> always keep learning.. </strong> </p>
 <h2>
 Skills
 </h2>
