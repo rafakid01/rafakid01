@@ -9,7 +9,7 @@
 Skills
 </h2>
 <p><span>:page_with_curl:</span> HTML</p>
-<p><span>:pencil:</span> CSS</p>
+<p><span>:pencil2:</span> CSS</p>
 <p><span>:a:</span> Angular</p>
 <p><span>:blue_book:</span> Typescript</p>
 <p><span>:elephant:</span> PHP</p>
