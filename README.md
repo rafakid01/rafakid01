@@ -8,10 +8,10 @@
 <h2>
 Skills
 </h2>
-<p>
-👁️ <b>HTML</b>5, <b>CSS</b>3<br>
-:coffee: JavaScript <br>
-:a: Angular<br>
-:blue_book: TypeScript<br>
-:elephant: PHP <br>
- </p>
+<p><span>:page_with_curl:</span> HTML</p>
+<p><span>:pencil:</span> CSS</p>
+<p><span>:a:</span> Angular</p>
+<p><span>:blue_book:</span> Typescript</p>
+<p><span>:elephant:</span> PHP</p>
+<p><span>:books:</span> BootStrap</p>
+<p><span>:gear:</span> SASS</p>
